@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SannaKN
 - 👀 Current tasks at work are related to Quality Assurance, testing, accessibility, ...
-- 🌱 I’m currently learning Java, html, css, javascript
+- 🌱 I’m currently learning Java, html, css, javascript, php, Python
 - 📫 You can reach me at: skoskiranta@gmail.com
 
 <!---
